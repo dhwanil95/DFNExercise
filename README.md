@@ -44,8 +44,8 @@ npm run serve
 After running the backend After running the application , open your browser and navigate to http://localhost:8080 (or the port specified in your terminal). The application should load and display the Artists, Albums, and Songs data. 
 Screenshots are attached in "screenshots" folder.
 
-![Screenshot (84)](https://github.com/dhwanil95/DFNExercise/assets/25331245/e74a0a08-1602-4c5f-926c-3a99![Screenshot (85)](https://github.com/dhwanil95/DFNExercise/assets/25331245/7584f5fb-5aa1-4e0e-af2e-88e17718b2dc)
-b690e12e)
+![Screenshot (84)](https://github.com/dhwanil95/DFNExercise/assets/25331245/d6610acf-77a8-45d0-8c95-03c9f101f0fb)
+![Screenshot (85)](https://github.com/dhwanil95/DFNExercise/assets/25331245/76ed3a65-5948-4d6e-90ce-c8e52b7cc128)
 ![Screenshot (86)](https://github.com/dhwanil95/DFNExercise/assets/25331245/9d36f41d-793f-4039-9633-aac615ea405e)
 ![Screenshot (87)](https://github.com/dhwanil95/DFNExercise/assets/25331245/9aa7b4ef-9534-463f-9ef4-87d1fa0d5deb)![Screenshot (88)](https://github.com/dhwanil95/DFNExercise/assets/25331245/54460e65-019b-4a06-b320-fb93803fa5c0)
 
